@@ -1,5 +1,7 @@
 # Hermes-BBB
 
+The schematic and layout files can be opened with DipTrace 3.2.x 
+
 Is shared under the CERN Open Hardware Licence v1.2 
 
 ---
